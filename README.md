@@ -2,7 +2,7 @@
 NCTK, a project on film negatives preprocessing.
 
 ## Background
-Up to now, the workflow I'm following I believe can bring me the best image quality and efficiency.
+Up to now, the workflow I'm following I believe can bring me the best balanced image quality and efficiency.
 1. Scan negatives /w Epson v700, saved as Silverfast DNG.
 2. Crop the DNG the positive scan file in Lightroom, some border left is acceptable. 
 3. Convert them with a Plugin -- Negative Lab Pro
